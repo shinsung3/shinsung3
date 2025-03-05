@@ -2,7 +2,7 @@
 
 ### 🌱 I’m currently learning ...
 
-[![Early bird](https://github-readme-stats.vercel.app/api/top-langs?username=shinsung3&layout=donut&langs_count=6&card_width=320&hide_title=true)](https://github.com/shinsung3)
+[![Early bird](https://github-readme-stats.vercel.app/api/top-langs?username=shinsung3&layout=donut&langs_count=20&hide_title=true)](https://github.com/shinsung3)
 <!-- 
 <a href="https://github.com/anuraghazra/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shinsung3&layout=donut&langs_count=6&card_width=320&hide_title=true" />
