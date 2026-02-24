@@ -4,3 +4,9 @@
 ### :dancers: I’m looking to collaborate on ...
 
 [![Early bird](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=shinsung3&theme=default&utcOffset=9)](https://github.com/shinsung3)
+
+### I'm 🐥
+
+![GitHub Commit Activity](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
+
+![Commit Time Stats](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=YOUR_USERNAME&theme=github)
