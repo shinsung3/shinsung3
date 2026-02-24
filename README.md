@@ -7,6 +7,6 @@
 
 ### I'm 🐥
 
-![GitHub Commit Activity](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
+![GitHub Commit Activity](https://github-readme-stats.vercel.app/api?username=shinsung3&show_icons=true)
 
-![Commit Time Stats](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=YOUR_USERNAME&theme=github)
+![Commit Time Stats](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=shinsung3&theme=github)
